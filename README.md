@@ -1,7 +1,6 @@
 ##Hi, I’m @Nicolas-hkarling
 
 - 👀 I’m interested in learn and meet new people...
-- 🌱 I’m currently learning Java and React at SAP's techshool project
 - 💞️ I’m looking for a job.
 - 📫 How to contact me? Well, you can talk to me by e-mail: nicolasherique@gmail.com
 
