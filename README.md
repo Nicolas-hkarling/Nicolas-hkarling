@@ -3,7 +3,10 @@
 - 👀 I’m interested in learn and meet new people...
   
 - 📫 How to contact me? Well, you can talk to me by e-mail: nicolasherique@gmail.com
-
+<div>
+  <a href="https://github.com/Nicolas-hkarling">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-hkarling&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js-bandge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
